@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .draggable {
+    cursor: move;
+    position: absolute;
+    user-select: none;
+  }
+  
